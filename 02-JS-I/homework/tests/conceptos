@@ -1,0 +1,25 @@
+///Variables :
+es una forma de almacenar un valor de algo, el cual sirve para opcupar en alguna linea de codigo, estas varibles 
+pueden almacenar distintos tipos de datos, como ser caracteres, numeros, valores logicos
+
+///Strings
+es un tipo de dato que almacenan las variables, se caracterizan por concatenar caracteres alfabeticos.
+
+///las funciones son una tipo de obejetos los cuales tienen las mismas propiedades de cualquier obejeto
+las funciones siempre empezaran con la palabra clave function mas el nombre y los parentecis para pasarle los argumentos 
+
+*ej: function miFuncion (){}
+
+el argumento es una variable que vamos a pasarle a la fincion para que pueda operar con el mismo 
+
+*ej: function logHola(nombre) {
+    console.log('Hola, ' + nombre);
+}
+
+logHola('Martin');
+
+
+///return devuelve valores de una funciones
+
+///if 
+es un operador de control de flujo , el cual sirve para comparar algo y devolver un resultado true o false
