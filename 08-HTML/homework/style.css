@@ -1,0 +1,38 @@
+         
+         h1 {
+                color: blue;
+            }
+        
+        html {
+                font: 200;
+                color: crimson;
+                font-size: 30;
+            }
+            
+        #thirdDiv{
+            height: 600px;
+            width: 400px;
+            background-color: burlywood;
+            padding: 50px;
+            border-width: 20px;
+            color: black;
+            
+        }
+
+        body{
+            background-color: cornflowerblue;
+        }
+
+        #spanId{
+            font-size: 18px;
+            color: black;
+            margin: 50px;
+        }
+        div.divClass{
+            text-align: center;
+            background-color: #fafafa;
+            margin: 1rem;
+            padding: 1rem;
+            border: 2px solid #ccc;
+        }
+      
