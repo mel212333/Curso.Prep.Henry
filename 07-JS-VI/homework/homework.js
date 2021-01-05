@@ -33,8 +33,7 @@ function map(array, cb) {
       });
         return nuevoArray;
     }
-   
-
+    
 // No modificar nada debajo de esta línea
 // --------------------------------
 
